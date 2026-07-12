@@ -1,0 +1,6 @@
+{
+  "name": "Maintix",
+  "description": "An AI-powered asset maintenance and service management platform that automates issue triage, schedules work orders, and coordinates field technicians with deep diagnostic insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
