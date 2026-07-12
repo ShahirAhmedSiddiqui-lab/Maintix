@@ -64,8 +64,7 @@ maintix/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/maintix-frontend.git
-git clone https://github.com/your-username/maintix-backend.git
+git clone https://github.com/ShahirAhmedSiddiqui-lab/Maintix.git
 ```
 
 ### Install dependencies
